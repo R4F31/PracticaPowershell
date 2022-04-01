@@ -74,3 +74,24 @@ cmdlet
 Task 8
 Pipe “Get-Command” into “Out-GridView”
 ![imagen](https://github.com/R4F31/PracticaPowershell/blob/main/PrimitiveDatatype/Parte1/8.PNG)
+
+Task 9
+
+Pipe the 5 cmdlets you discovered in task 1 into “Out-
+GridView”
+1.
+![imagen](https://github.com/R4F31/PracticaPowershell/blob/main/PrimitiveDatatype/Parte1/9a.PNG)
+2.
+![imagen](https://github.com/R4F31/PracticaPowershell/blob/main/PrimitiveDatatype/Parte1/9b.PNG)
+3.
+![imagen](https://github.com/R4F31/PracticaPowershell/blob/main/PrimitiveDatatype/Parte1/9c.PNG)
+4.
+![imagen](https://github.com/R4F31/PracticaPowershell/blob/main/PrimitiveDatatype/Parte1/9d.PNG)
+5.
+![imagen](https://github.com/R4F31/PracticaPowershell/blob/main/PrimitiveDatatype/Parte1/9e.PNG)
+
+Task 10
+Find the official PowerShell documentation library from
+Microsoft
+[enlace](https://docs.microsoft.com)
+
