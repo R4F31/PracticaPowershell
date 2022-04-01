@@ -1,1 +1,3 @@
 # PracticaPowershell
+
+![imagen](./)
